@@ -18,13 +18,8 @@ This Django view function, `update_custom_field`, is designed to interact with t
 9. The function prepares a JSON response containing the custom field values before and after the update.
 10. The JSON response is returned as the API result, showing the before and after custom field values in a REST API format.
 
-## Usage
-
-1. Make sure you have Django installed and a Django project set up.
-2. Replace `<token>` in the view function with your actual GoHighLevel API token.
-3. Replace `<custom_field_id>` in the view function with the actual ID of the custom field you want to update.
-4. Add this view function to your Django app's `views.py` file.
-5. Add a URL mapping to this view in your app's `urls.py` file.
+## Link for the video explaination
+ - https://www.loom.com/share/b43e25b00bcf40479c2c2f9428c6b410?sid=1601d7d0-3fac-4a14-99fe-b75dc3b0af51
 
 ## Dependencies
 
